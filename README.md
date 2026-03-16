@@ -32,7 +32,7 @@ The objective of this project is to analyze store sales data and generate useful
 
 ## 📸 Screenshot
 
-![Excel Dashboard](dashboard.png)
+![Excel Dashboard](screenshot.png)
 
 ---
 
@@ -42,15 +42,6 @@ The objective of this project is to analyze store sales data and generate useful
 2. Open the project folder
 3. Open the file **vrinda_store_analysis.xlsx**
 4. Explore the pivot tables and charts for insights
-
----
-
-## 📂 Project Structure
-
-vrinda-store-analysis/
-│── vrinda_store_analysis.xlsx
-│── dashboard.png
-│── README.md
 
 ---
 
